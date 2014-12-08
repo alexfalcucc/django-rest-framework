@@ -8,6 +8,6 @@ License
 MIT
 
 
-**Free Software, Hell Yeah!**
+**Free Software!**
 
 [here]:http://alexfalcucci.com/article/construindo-uma-API-RESTful-com-Django-rest-framework/
