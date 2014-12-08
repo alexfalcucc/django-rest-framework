@@ -2,12 +2,4 @@
 
 You can see the tutorial [here]
 
-License
-----
-
-MIT
-
-
-**Free Software!**
-
 [here]:http://alexfalcucci.com/article/construindo-uma-API-RESTful-com-Django-rest-framework/
